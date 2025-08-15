@@ -19,7 +19,7 @@ To compile and run the code, you need to have the GCC compiler installed on your
   ```bash
   xcode-select --install
 
-- **How to compile**
+- **How to compile** <br> <br>
   In the terminal, navigate to the folder where your .c files are located.
   Run the command below to compile a file, replacing filename.c with the desired file name:
   ```bash
@@ -30,10 +30,9 @@ To compile and run the code, you need to have the GCC compiler installed on your
   gcc weighted_mean.c -o weighted_mean
 ```
 
-- **How to run**
+- **How to run** <br> 
   After compiling, execute the program in terminal:
 
-  On Linux/macOS:
   ```bash
   ./program_name
 
