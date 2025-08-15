@@ -25,9 +25,10 @@ To compile and run the code, you need to have the GCC compiler installed on your
   ```bash
   gcc filename.c -o program_name
 
- - For example, to compile weighted_mean.c:
-  ```bash
+ - **For example, to compile weighted_mean.c:**
+```bash
   gcc weighted_mean.c -o weighted_mean
+```
 
 - **How to run**
   After compiling, execute the program in terminal:
@@ -35,4 +36,5 @@ To compile and run the code, you need to have the GCC compiler installed on your
   On Linux/macOS:
   ```bash
   ./program_name
+
 
